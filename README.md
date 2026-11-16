@@ -1,18 +1,18 @@
-# 👋🧩 Morphe Patches template
+# kicker patches
 
-Template repository for Morphe Patches.
+Community patch bundle for the kicker Android app. This is not an official Morphe bundle.
 
 ## ❓ About
 
-Patches for apps I like.
-
-<!-- TODO: Update this about section with a brief introduction/summary about this repo and what it offers. -->
+Hides ads in kicker 7.15.1. It does not change the subscription or unlock paid articles.
 
 ### How to use these patches
 
-Click the button below, or manually add this repo url to Morphe Manager: https://github.com/xyz-user/xyz-patches
+Add it in Morphe Manager:
 
-<a href="https://morphe.software/add-source?github=xyz-user/xyz-patches">
+https://github.com/RebuildXoxo/kicker-patches
+
+<a href="https://morphe.software/add-source?github=RebuildXoxo/kicker-patches">
   <img src=".github/assets/add-to-morphe.svg" alt="Add to Morphe" height="48">
 </a>
 
